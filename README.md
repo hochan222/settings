@@ -3,7 +3,7 @@ zsh-settings
 
 순정 터미널... 뭔가 불편하다...  
 
-<img src="./img/pure-shell.png" height="300px" />
+<img src="./img/pure-shell.png" width="300px" />
 
 쓰기 편하게 고쳐보자.  
 
