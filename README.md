@@ -3,11 +3,11 @@ zsh-settings
 
 순정 터미널... 뭔가 불편하다...  
 
-![pure-shell](./img/pure-shell.png)  
+<img src="./img/pure-shell.png" height="300px" />
 
 쓰기 편하게 고쳐보자.  
 
-![custom-shell](./img/custom-shell.png)
+<img src="./img/custom-shell.png" height="300px" />
 
 > zsh 정도는 있다고 가정! 없다면
 ```
