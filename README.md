@@ -1,11 +1,13 @@
-# zsh-settings
-zsh-settings
+## vscode settings
 
-순정 터미널... 뭔가 불편하다...  
+.vscode/settings.json 파일을 참고하자!
+
+## zsh-settings
+순정 터미널... 뭔가 불편하다...
 
 <img src="./img/pure-shell.png" height="100px" />
 
-쓰기 편하게 고쳐보자.  
+쓰기 편하게 고쳐보자.
 
 <img src="./img/custom-shell.png" height="300px" />
 
@@ -14,9 +16,9 @@ zsh-settings
 brew install zsh
 ```
 
-1. [Oh my zsh](https://github.com/ohmyzsh/ohmyzsh.git)  
-2. [powerlevel10k](https://github.com/romkatv/powerlevel10k#oh-my-zsh)  
-3. ~/.vimrc 파일값 변경
+1. [Oh my zsh](https://github.com/ohmyzsh/ohmyzsh.git)
+2. [powerlevel10k](https://github.com/romkatv/powerlevel10k#oh-my-zsh)
+3. ~/.vimrc (옮겨주기 색깔이 예쁘게 입혀진다!)
 4. ~/.zshrc
     - ZSH_THEME="robbyrussell" > ZSH_THEME="powerlevel10k/powerlevel10k"
 5. <code>zsh</code> 후에 알맞게 취향대로 설정
